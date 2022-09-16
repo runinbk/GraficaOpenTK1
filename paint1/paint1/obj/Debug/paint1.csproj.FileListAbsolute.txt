@@ -1,0 +1,11 @@
+D:\Materias 2 -2022\repo\paint1\paint1\obj\Debug\paint1.csprojAssemblyReference.cache
+D:\Materias 2 -2022\repo\paint1\paint1\obj\Debug\paint1.csproj.CoreCompileInputs.cache
+D:\Materias 2 -2022\repo\paint1\paint1\bin\Debug\paint1.exe.config
+D:\Materias 2 -2022\repo\paint1\paint1\bin\Debug\paint1.exe
+D:\Materias 2 -2022\repo\paint1\paint1\bin\Debug\paint1.pdb
+D:\Materias 2 -2022\repo\paint1\paint1\bin\Debug\OpenTK.dll
+D:\Materias 2 -2022\repo\paint1\paint1\bin\Debug\OpenTK.pdb
+D:\Materias 2 -2022\repo\paint1\paint1\bin\Debug\OpenTK.xml
+D:\Materias 2 -2022\repo\paint1\paint1\obj\Debug\paint1.csproj.CopyComplete
+D:\Materias 2 -2022\repo\paint1\paint1\obj\Debug\paint1.exe
+D:\Materias 2 -2022\repo\paint1\paint1\obj\Debug\paint1.pdb
